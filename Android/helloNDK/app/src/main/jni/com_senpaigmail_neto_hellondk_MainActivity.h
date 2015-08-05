@@ -1,0 +1,6 @@
+#ifndef COM_SENPAIGMAIL_NETO_HELLONDK_MAINACTIVITY_H
+#define COM_SENPAIGMAIL_NETO_HELLONDK_MAINACTIVITY_H
+
+    JNIEXPORT jstring JNICALL Java_com_senpaigmail_neto_hellondk_MainActivity_getStringFromJNI(JNIEnv* env, jobject obj);
+
+#endif //COM_SENPAIGMAIL_NETO_HELLONDK_MAINACTIVITY_H
